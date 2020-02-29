@@ -126,7 +126,7 @@ YAAMP_ALGO g_algos[] =
 
 	{"x11evo", x11evo_hash, 1, 0, 0},
 	{"xevan", xevan_hash, 0x100, 0, 0},
-
+	{"minotaur", minotaur_hash, 0x100, 0, 0},
 	{"x16r", x16r_hash, 0x100, 0, 0},
 	{"x16rv2", x16rv2_hash, 0x100, 0, 0},
 	{"x16s", x16s_hash, 0x100, 0, 0},
